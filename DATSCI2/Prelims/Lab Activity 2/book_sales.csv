@@ -1,0 +1,31 @@
+Book_Title,Category,Month,Quantity,Price,Total_Sale,Sale_Level
+PYTHON FOR DATA SCIENCE,Non-Fiction,January,10,450,4500,High_Sale
+PYTHON FOR DATA SCIENCE,Non-Fiction,February,8,450,3600,Medium_Sale
+PYTHON FOR DATA SCIENCE,Non-Fiction,March,12,450,5400,High_Sale
+PYTHON FOR DATA SCIENCE,Non-Fiction,April,6,450,2700,Medium_Sale
+MACHINE LEARNING,Non-Fiction,January,9,600,5400,High_Sale
+MACHINE LEARNING,Non-Fiction,February,5,600,3000,Medium_Sale
+MACHINE LEARNING,Non-Fiction,March,11,600,6600,High_Sale
+MACHINE LEARNING,Non-Fiction,April,7,600,4200,Medium_Sale
+DEEP LEARNING,Non-Fiction,January,6,700,4200,Medium_Sale
+DEEP LEARNING,Non-Fiction,February,9,700,6300,High_Sale
+DEEP LEARNING,Non-Fiction,March,4,700,2800,Medium_Sale
+DEEP LEARNING,Non-Fiction,April,10,700,7000,High_Sale
+AI FUNDAMENTALS,Non-Fiction,January,15,250,3750,Medium_Sale
+AI FUNDAMENTALS,Non-Fiction,February,20,250,5000,High_Sale
+AI FUNDAMENTALS,Non-Fiction,March,18,250,4500,High_Sale
+AI FUNDAMENTALS,Non-Fiction,April,9,250,2250,Low_Sale
+WEB DEVELOPMENT,Non-Fiction,January,14,300,4200,Medium_Sale
+WEB DEVELOPMENT,Non-Fiction,February,16,300,4800,Medium_Sale
+WEB DEVELOPMENT,Non-Fiction,March,18,300,5400,High_Sale
+WEB DEVELOPMENT,Non-Fiction,April,7,300,2100,Low_Sale
+DATA SCIENCE 101,Non-Fiction,January,5,500,2500,Low_Sale
+DATA SCIENCE 101,Non-Fiction,February,8,500,4000,Medium_Sale
+DATA SCIENCE 101,Non-Fiction,March,10,500,5000,High_Sale
+DATA SCIENCE 101,Non-Fiction,April,12,500,6000,High_Sale
+PYTHON BASICS,Non-Fiction,January,11,450,4950,Medium_Sale
+PYTHON BASICS,Non-Fiction,February,13,450,5850,High_Sale
+PYTHON BASICS,Non-Fiction,March,6,450,2700,Medium_Sale
+PYTHON BASICS,Non-Fiction,April,15,450,6750,High_Sale
+SQL FUNDAMENTALS,Non-Fiction,January,8,400,3200,Medium_Sale
+SQL FUNDAMENTALS,Non-Fiction,February,12,400,4800,Medium_Sale
